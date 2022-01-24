@@ -1,0 +1,18 @@
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe.config
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.pdb
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form1.resources
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Properties.Resources.resources
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csproj.GenerateResource.Cache
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.exe
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.pdb
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form2.resources
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form3.resources
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form4.resources
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form5.resources
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form6.resources
+C:\Users\ESER\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form7.resources
+C:\Users\ESER\Desktop\KÜTÜPHANE ÖDEVİ\kütüphane otomasyonu BU\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe.config
+C:\Users\ESER\Desktop\KÜTÜPHANE ÖDEVİ\kütüphane otomasyonu BU\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.exe
+C:\Users\ESER\Desktop\KÜTÜPHANE ÖDEVİ\kütüphane otomasyonu BU\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.pdb
